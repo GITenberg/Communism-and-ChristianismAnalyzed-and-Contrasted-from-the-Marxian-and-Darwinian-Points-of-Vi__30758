@@ -1,0 +1,31 @@
+_repo: Communism-and-ChristianismAnalyzed-and-Contrasted-from-the-Marxian-and-Darwinian-Points-of-Vi__30758
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, William Montgomery
+    birthdate: 1855
+    deathdate: 1937
+    gutenberg_agent_id: '34812'
+    url: http://www.gutenberg.org/2009/agents/34812
+    wikipedia: http://en.wikipedia.org/wiki/William_Montgomery_Brown
+description: ''
+gutenberg_issued: '2009-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30758'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HX'
+- !lcsh 'Christian socialism'
+- !lcsh 'Communism'
+- !lcsh 'Communism and Christianity'
+title: 'Communism and Christianism
+
+  Analyzed and Contrasted from the Marxian and Darwinian Points of View'
+url: http://www.gutenberg.org/ebooks/30758
