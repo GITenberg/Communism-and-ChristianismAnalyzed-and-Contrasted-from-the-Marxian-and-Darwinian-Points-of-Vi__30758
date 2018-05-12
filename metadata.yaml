@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34812
     wikipedia: http://en.wikipedia.org/wiki/William_Montgomery_Brown
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30758#Communism-and-ChristianismAnalyzed-and-Contrasted-from-the-Marxian-and-Darwinian-Points-of-Vi_
 gutenberg_issued: '2009-12-25'
 gutenberg_type: Text
 identifiers:
